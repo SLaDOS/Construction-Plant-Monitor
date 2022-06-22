@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "now": {
+                "code": "0", 天气
+                "text": "\u6674",
+                "temperature": "27", 气温
+                "humidity": "86", 相对湿度
+                "pressure": "994", 地面气压
+                "visibility": "20000", 能见度
+                "wind_direction_degree": "171", 风向角度
+                "wind_speed": "6.0", 风速
+                "wind_scale": "2", 风力等级
+                "feels_like": "31.22", 体感气温
+                "wind_direction": "\u5357", 风向角
+                "precip": "",
+                "precip_intensity": ""
+            },
+            "last_update": "2022-06-22T01:10:11+08:00"
+        }
+    ]
+}

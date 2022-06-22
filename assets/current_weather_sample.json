@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "now": {
+                "code": "0",
+                "text": "\u6674",
+                "temperature": "26",
+                "humidity": "87",
+                "pressure": "994",
+                "visibility": "20000",
+                "wind_direction_degree": "170",
+                "wind_speed": "6.0",
+                "wind_scale": "2",
+                "feels_like": "29.87",
+                "wind_direction": "\u5357",
+                "precip": "",
+                "precip_intensity": ""
+            },
+            "last_update": "2022-06-22T01:34:18+08:00"
+        }
+    ]
+}
